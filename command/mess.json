@@ -1,8 +1,8 @@
 {
-    "wait": "_Sedang Di Proses_",
+    "wait": "_sabarr sayangg_",
     "error": {
-        "Iv": "Link yang kamu berikan tidak valid",
-        "api": "Maaf terjadi kesalahan"
+        "Iv": "link yang kamu berikan tidak valid",
+        "api": "maaf terjadi kesalahan"
     },
     "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
     "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
